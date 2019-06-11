@@ -2,7 +2,7 @@
 
 ## Intro
 
-The heat flow across the Thermal Protection System (TPS) tiles of the STS-96 space shuttle flight was modelled during re-entry conditions. A 1D model was made using Fourier's heat equation, and the solution was obtained through four different numerical methods: forward differencing, DuFort-Frankel, backward differencing and Crank-Nicolson. The stabilities of the different methods were evaluated in respect to the time step, ∆t and the spatial step, ∆x.
+The heat flow across the Thermal Protection System (TPS) tiles of the STS-96 space shuttle flight was modelled during re-entry conditions. A 1D model was made using Fourier's heat equation, and the solution was obtained through four different numerical methods: forward differencing, DuFort-Frankel, backward differencing and Crank-Nicolson. The stabilities of the different methods were evaluated in respect to the time step, $\Delta$ t and the spatial step, $\Delta$ x.
 
 Full Report: [Numerical Modelling for the Space Shuttle Thermal Protection System](https://drive.google.com/open?id=1kwTSqLOmcTZutzBV3HRwvM4YdvGdByE6)
 
