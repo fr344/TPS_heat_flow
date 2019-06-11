@@ -6,7 +6,7 @@ The heat flow across the Thermal Protection System (TPS) tiles of the STS-96 spa
 
 Full Report: [Numerical Modelling for the Space Shuttle Thermal Protection System](https://www.overleaf.com/read/jknnyfcvfvsm)
 
-## Usage
+## GUI Usage
 
 1) Import .m files
 2) Import .jpg temperature profiles
